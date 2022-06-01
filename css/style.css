@@ -1,0 +1,30 @@
+body {
+    background-color: #f1dfa7;
+  }
+
+  .mosh:hover {
+      color:green;
+  }
+
+  img {
+    border-radius: 5%;
+    /* float: left; */
+    height: 210px;
+   margin-left: -15px;
+   
+  }
+
+  hr {
+    border-style: none;
+    border-top-style: dotted;
+    color: red;
+    width: 100%;
+    border-width: 2px;
+  }
+  h1, h2, h3 {
+      color:#4b88ea;
+  }
+  
+  .name {
+      color:#60b9c3
+  }
